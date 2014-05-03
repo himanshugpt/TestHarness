@@ -1,0 +1,15 @@
+<test_suite>  
+                        <username>demo.test</username>
+                          <client_ip>192.168.2.4</client_ip>
+                          <project_name>TestSuiteName</project_name>
+                          <fileNames>
+                            <file_name>ITest.dll</file_name>
+                            <file_name>Logger.dll</file_name>
+                            <file_name>Parser.dll</file_name>
+                            <file_name>TestVectorGen.dll</file_name>
+                            <file_name>Parser.cs</file_name>
+                            <file_name>ParserFile.cs</file_name>
+                            <file_name>Semi.cs</file_name>
+                            <file_name>Toker.cs</file_name>
+                          </fileNames>
+                        </test_suite>

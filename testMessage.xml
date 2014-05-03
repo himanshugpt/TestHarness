@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test_suite>
+  <username>username</username>
+  <client_ip>190.12.334.23</client_ip>
+  <project_name>testPrjName</project_name>
+  <fileNames>
+    <file_name>fileName1.dll</file_name>
+    <file_name>fileName2.dll</file_name>
+    <file_name>fileName3.dll</file_name>
+  </fileNames>
+</test_suite>

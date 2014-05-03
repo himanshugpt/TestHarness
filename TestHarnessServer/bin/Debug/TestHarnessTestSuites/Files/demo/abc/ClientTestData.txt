@@ -1,0 +1,3 @@
+﻿filename:\foledername\fileName1.dll
+filename:\foledername\fileName2.dll
+filename:\foledername\fileName3.dll

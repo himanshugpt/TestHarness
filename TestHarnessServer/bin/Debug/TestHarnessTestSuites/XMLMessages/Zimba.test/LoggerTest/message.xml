@@ -1,0 +1,11 @@
+<test_suite>  
+                        <username>Zimba.test</username>
+                          <client_ip>192.148.2.4</client_ip>
+                          <project_name>LoggerTest</project_name>
+                          <fileNames>
+                            <file_name>ITest.dll</file_name>
+                            <file_name>Logger.dll</file_name>
+                            <file_name>Parser.dll</file_name>
+                            <file_name>TestVectorGen.dll</file_name>
+                          </fileNames>
+                        </test_suite>

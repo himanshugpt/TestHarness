@@ -1,0 +1,7 @@
+﻿sampleFile1.txt:sampleFolder:true
+sampleFile2.txt:sampleFolder:true
+sampleFile3.txt:sampleFolder:true
+registerTest:tstUsername:tstpass:true
+registerTest:tstUsername:tstpass:false
+logintest::tstUsername:tstpass:true
+logintest::tstUsername:tstpassxyz:false

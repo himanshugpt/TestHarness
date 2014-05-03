@@ -1,0 +1,10 @@
+<test_suite>  
+                        <username>Alice.test</username>
+                          <client_ip>198.168.2.4</client_ip>
+                          <project_name>DemoTest</project_name>
+                          <fileNames>
+                            <file_name>ITest.dll</file_name>
+                            <file_name>Logger.dll</file_name>
+                            <file_name>Toker.cs</file_name>
+                          </fileNames>
+                        </test_suite>
